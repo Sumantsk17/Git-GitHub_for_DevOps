@@ -3,3 +3,5 @@ This is feat 3
 Very cool feature
 
 This is some work done by me.
+
+added some mistakes
