@@ -3,5 +3,3 @@ This is feat 3
 Very cool feature
 
 This is some work done by me.
-
-Added gadbad in feature 3
